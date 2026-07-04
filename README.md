@@ -12,7 +12,7 @@ The primary goal of Happy Eat is to simplify the food ordering process by provid
 
 1.Home Page
 
-<img width="900" height="900" alt="Screenshot 2026-07-04 124632" src="https://github.com/user-attachments/assets/27f7778d-432d-4646-908d-8d68979c5b74" />
+<img width="1200" height="900" alt="Screenshot 2026-07-04 124632" src="https://github.com/user-attachments/assets/27f7778d-432d-4646-908d-8d68979c5b74" />
 
 
 2.login Page
