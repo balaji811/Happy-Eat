@@ -17,28 +17,28 @@ The primary goal of Happy Eat is to simplify the food ordering process by provid
 
 2.login Page
 
-<img width="900" height="900" alt="Screenshot 2026-07-04 124659" src="https://github.com/user-attachments/assets/0a857050-7d8b-4175-9943-a8aad5bfe117" />
+<img width="1200" height="900" alt="Screenshot 2026-07-04 124659" src="https://github.com/user-attachments/assets/0a857050-7d8b-4175-9943-a8aad5bfe117" />
 
 3.Restaurant Page
 
-<img width="900" height="900" alt="Screenshot 2026-07-04 124720" src="https://github.com/user-attachments/assets/384ab1f9-6a4c-4529-8f07-940efd19bb0f" />
+<img width="1200" height="900" alt="Screenshot 2026-07-04 124720" src="https://github.com/user-attachments/assets/384ab1f9-6a4c-4529-8f07-940efd19bb0f" />
 
 
 4.Menu Page
 
-<img width="900" height="900" alt="Screenshot 2026-07-04 124737" src="https://github.com/user-attachments/assets/a7ecf602-8b87-446d-a5bb-c85eb4fa7e16" />
+<img width="1200" height="900" alt="Screenshot 2026-07-04 124737" src="https://github.com/user-attachments/assets/a7ecf602-8b87-446d-a5bb-c85eb4fa7e16" />
 
 
 5.Cart Page
 
-<img width="900" height="900" alt="Screenshot 2026-07-04 124905" src="https://github.com/user-attachments/assets/b75429fc-1db2-441d-b824-18aefcd15b07" />
+<img width="1200" height="900" alt="Screenshot 2026-07-04 124905" src="https://github.com/user-attachments/assets/b75429fc-1db2-441d-b824-18aefcd15b07" />
 
 
 6.checkOut Page 
 
-<img width="900" height="900" alt="Screenshot 2026-07-04 125156" src="https://github.com/user-attachments/assets/4ef1dfcc-5e76-4f8c-a088-2392f161119d" />
+<img width="1200" height="900" alt="Screenshot 2026-07-04 125156" src="https://github.com/user-attachments/assets/4ef1dfcc-5e76-4f8c-a088-2392f161119d" />
 
 
 7.Orders Page
 
-<img width="900" height="900" alt="Screenshot 2026-07-04 124921" src="https://github.com/user-attachments/assets/485105c3-4bb3-43a8-8a35-41cfe60f7ae6" />
+<img width="1200" height="900" alt="Screenshot 2026-07-04 124921" src="https://github.com/user-attachments/assets/485105c3-4bb3-43a8-8a35-41cfe60f7ae6" />
